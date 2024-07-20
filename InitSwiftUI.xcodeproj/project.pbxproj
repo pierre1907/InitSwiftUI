@@ -17,6 +17,9 @@
 		B5F81B712C4C0AE3001845D2 /* loginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F81B702C4C0AE3001845D2 /* loginView.swift */; };
 		B5F81B722C4C0AE3001845D2 /* loginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F81B702C4C0AE3001845D2 /* loginView.swift */; };
 		B5F81B732C4C0AE3001845D2 /* loginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F81B702C4C0AE3001845D2 /* loginView.swift */; };
+		B5F81B752C4C483E001845D2 /* SignupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F81B742C4C483E001845D2 /* SignupView.swift */; };
+		B5F81B762C4C483E001845D2 /* SignupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F81B742C4C483E001845D2 /* SignupView.swift */; };
+		B5F81B772C4C483E001845D2 /* SignupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F81B742C4C483E001845D2 /* SignupView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +51,7 @@
 		B580A4102C4BEA4600A6C7BA /* InitSwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitSwiftUIUITests.swift; sourceTree = "<group>"; };
 		B580A4122C4BEA4600A6C7BA /* InitSwiftUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitSwiftUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		B5F81B702C4C0AE3001845D2 /* loginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginView.swift; sourceTree = "<group>"; };
+		B5F81B742C4C483E001845D2 /* SignupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +140,7 @@
 			isa = PBXGroup;
 			children = (
 				B5F81B702C4C0AE3001845D2 /* loginView.swift */,
+				B5F81B742C4C483E001845D2 /* SignupView.swift */,
 			);
 			path = screen;
 			sourceTree = "<group>";
@@ -270,6 +275,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5F81B752C4C483E001845D2 /* SignupView.swift in Sources */,
 				B580A3F82C4BEA4400A6C7BA /* ContentView.swift in Sources */,
 				B5F81B712C4C0AE3001845D2 /* loginView.swift in Sources */,
 				B580A3F62C4BEA4400A6C7BA /* InitSwiftUIApp.swift in Sources */,
@@ -280,6 +286,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5F81B762C4C483E001845D2 /* SignupView.swift in Sources */,
 				B5F81B722C4C0AE3001845D2 /* loginView.swift in Sources */,
 				B580A4072C4BEA4600A6C7BA /* InitSwiftUITests.swift in Sources */,
 			);
@@ -289,6 +296,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5F81B772C4C483E001845D2 /* SignupView.swift in Sources */,
 				B580A4132C4BEA4600A6C7BA /* InitSwiftUIUITestsLaunchTests.swift in Sources */,
 				B5F81B732C4C0AE3001845D2 /* loginView.swift in Sources */,
 				B580A4112C4BEA4600A6C7BA /* InitSwiftUIUITests.swift in Sources */,
